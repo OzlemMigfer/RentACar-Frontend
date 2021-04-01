@@ -17,7 +17,7 @@ export class CarComponent implements OnInit {
 
   cars=[this.car1,this.car2,this.car3,this.car4,this.car5,this.car6];
 
-  constructor() { }
+  constructor() { } 
 
   ngOnInit(): void {
   }
